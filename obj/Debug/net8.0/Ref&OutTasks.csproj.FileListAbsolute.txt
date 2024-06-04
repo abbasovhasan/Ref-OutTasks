@@ -1,0 +1,14 @@
+C:\Users\abbas\OneDrive\Documents\C#\Ref&OutTasks\Ref&OutTasks\bin\Debug\net8.0\Ref&OutTasks.exe
+C:\Users\abbas\OneDrive\Documents\C#\Ref&OutTasks\Ref&OutTasks\bin\Debug\net8.0\Ref&OutTasks.deps.json
+C:\Users\abbas\OneDrive\Documents\C#\Ref&OutTasks\Ref&OutTasks\bin\Debug\net8.0\Ref&OutTasks.runtimeconfig.json
+C:\Users\abbas\OneDrive\Documents\C#\Ref&OutTasks\Ref&OutTasks\bin\Debug\net8.0\Ref&OutTasks.dll
+C:\Users\abbas\OneDrive\Documents\C#\Ref&OutTasks\Ref&OutTasks\bin\Debug\net8.0\Ref&OutTasks.pdb
+C:\Users\abbas\OneDrive\Documents\C#\Ref&OutTasks\Ref&OutTasks\obj\Debug\net8.0\Ref&OutTasks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abbas\OneDrive\Documents\C#\Ref&OutTasks\Ref&OutTasks\obj\Debug\net8.0\Ref&OutTasks.AssemblyInfoInputs.cache
+C:\Users\abbas\OneDrive\Documents\C#\Ref&OutTasks\Ref&OutTasks\obj\Debug\net8.0\Ref&OutTasks.AssemblyInfo.cs
+C:\Users\abbas\OneDrive\Documents\C#\Ref&OutTasks\Ref&OutTasks\obj\Debug\net8.0\Ref&OutTasks.csproj.CoreCompileInputs.cache
+C:\Users\abbas\OneDrive\Documents\C#\Ref&OutTasks\Ref&OutTasks\obj\Debug\net8.0\Ref&OutTasks.dll
+C:\Users\abbas\OneDrive\Documents\C#\Ref&OutTasks\Ref&OutTasks\obj\Debug\net8.0\refint\Ref&OutTasks.dll
+C:\Users\abbas\OneDrive\Documents\C#\Ref&OutTasks\Ref&OutTasks\obj\Debug\net8.0\Ref&OutTasks.pdb
+C:\Users\abbas\OneDrive\Documents\C#\Ref&OutTasks\Ref&OutTasks\obj\Debug\net8.0\Ref&OutTasks.genruntimeconfig.cache
+C:\Users\abbas\OneDrive\Documents\C#\Ref&OutTasks\Ref&OutTasks\obj\Debug\net8.0\ref\Ref&OutTasks.dll
